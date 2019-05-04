@@ -1,0 +1,1 @@
+Simulacion de un termometro utilizando PyGame y POO
